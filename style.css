@@ -38,7 +38,8 @@ html{
     border: none;
     border-radius: 25px;
     font-size: 12vmin;
-    color: #5d08bebd
+    color: #5d08bebd;
+    cursor: pointer;
     
 
 }
@@ -58,6 +59,7 @@ color: #f8f8e4;
 position: relative;
 margin:1.5em auto 0 auto;
 display: block;
+cursor: pointer;
 }
 
 .popup{
